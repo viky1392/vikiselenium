@@ -10,10 +10,10 @@ public void addition() {}  //edited by smriti
 public int Substract()
 public int Multiply()
 public void Multiply numberonebyTWo()
-public int divide numberTwoby(10)
+public int divided numberTwoby(10)
 {
-	int numberone= 20;
-	int numberTwo= 20;
+	int numberone= 50;//edited by sahana
+	
 }
 
 	}
